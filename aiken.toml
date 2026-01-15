@@ -1,0 +1,18 @@
+name = "aiken-lang/smc_pump"
+version = "0.0.0"
+compiler = "v1.1.5"
+plutus = "v3"
+license = "Apache-2.0"
+description = "Aiken contracts for project 'aiken-lang/smc_pump'"
+
+[repository]
+user = "aiken-lang"
+project = "smc_pump"
+platform = "github"
+
+[[dependencies]]
+name = "aiken-lang/stdlib"
+version = "v3.0.0"
+source = "github"
+
+[config]
